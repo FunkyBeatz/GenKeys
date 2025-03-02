@@ -1,6 +1,6 @@
 # 🔑 Secure Key Generator
 
-A simple and practical project I created while learning to code—because doing yet another "Hello World" wasn't my style! 😉
+A simple and practical project I created while learning to code—because doing yet another "Hello World" wasn't my style! 
 
 ## ✨ Features
 - Generates random, secure keys with 20 characters
