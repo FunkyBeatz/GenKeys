@@ -18,3 +18,7 @@ I wanted to build something quick, useful, and more interesting than traditional
 ---
 
 Feel free to explore the code and leave any feedback! 💡
+
+## 🔗 Connect with Me
+-  𝕏 [Twitter](https://twitter.com/FunkyxBeatz)
+- 🎮 [Twitch](https://www.twitch.tv/funkybeatz_)
